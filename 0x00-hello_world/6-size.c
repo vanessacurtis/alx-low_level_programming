@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
  * main - 6 you sturbon
- * Return: always 0
+ * Return: always 0 (Success)
  */
 int main(void)
 {
-	chara;
+	char a;
 	int b;
 	long int c;
 	long long int d;
