@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - 6 you sturbon
- * Return: always 0 (Success)
+ * main -  you sturbon
+ * Return:  0 (Success)
  */
 int main(void)
 {
