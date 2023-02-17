@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main -  you sturbon
- * Return:  always 0
+ * main - prints the size ofvarious types
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
